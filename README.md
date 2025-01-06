@@ -2,14 +2,14 @@
 ## 1. 소개
 
 <div align="center">
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%98%B5%EC%85%98.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%83%81%EC%A0%90.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%B0%A9.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EA%B2%8C%EC%9E%84%20%ED%99%94%EB%A9%B4.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%98%B5%EC%85%98.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%83%81%EC%A0%90.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.JPG" width="49%" height="300"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EB%B0%A9.JPG" width="99%" height="600"/>
+  <img src="https://github.com/k660323/BoardGame/blob/main/Images/%EA%B2%8C%EC%9E%84%20%ED%99%94%EB%A9%B4.JPG" width="99%" height="600"/>
   
   < 게임 플레이 사진 >
 </div>
